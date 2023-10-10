@@ -5,5 +5,5 @@
 
 # Internships
 - *2023.07 - present*, Tencent AI Lab, Beijing.
-- *2023.04 - 2023.06*, iFlytek Research, Hefei.
-- *2021.11 - 2022.11*, Tencent Youtu Lab, Hefei.
+- *2023.03 - 2023.06*, iFlytek Research, Hefei.
+- *2021.12 - 2022.08*, Tencent Youtu Lab, Hefei.
