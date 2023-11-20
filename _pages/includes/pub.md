@@ -1,5 +1,5 @@
 
-# 📝 Publications 
+# Publications 
 
 - ``EMNLP 2023`` [DiffS2UT: A Semantic Preserving Diffusion Model for Textless Direct Speech-to-Speech Translation](), **Yongxin Zhu**, Zhujin Gao, Xinyuan Zhou, Zhongyi Ye, Linli Xu
 - ``ACL 2023`` [Span-level Aspect-based Sentiment Analysis via Table Filling](https://aclanthology.org/2023.acl-long.515.pdf), Mao Zhang, **Yongxin Zhu**, Zhen Liu, Zhimin Bao, Yunfei Wu, Xing Sun, Linli Xu
