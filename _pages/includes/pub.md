@@ -1,7 +1,8 @@
 
 # Publications 
 
-- ``AAAI 2024``  [Visual Hallucination Elevates Audio Speech Recognition](), Fang Zhang, **Yongxin Zhu**, Xiangxiang Wang, Huang Chen, Xing Sun, Linli Xu
+- ``COLING 2024`` [Few-shot Temporal Pruning Accelerates Diffusion Models for Text Generation](), Bocheng Li, Zhujin Gao, **Yongxin Zhu**, kun yin, haoyu cao, Deqiang Jiang and Linli Xu
+- ``AAAI 2024`` [Visual Hallucination Elevates Audio Speech Recognition](), Fang Zhang, **Yongxin Zhu**, Xiangxiang Wang, Huang Chen, Xing Sun, Linli Xu
 - ``EMNLP 2023`` [DiffS2UT: A Semantic Preserving Diffusion Model for Textless Direct Speech-to-Speech Translation](https://aclanthology.org/2023.emnlp-main.709.pdf), **Yongxin Zhu**, Zhujin Gao, Xinyuan Zhou, Zhongyi Ye, Linli Xu
 - ``ACL 2023`` [Span-level Aspect-based Sentiment Analysis via Table Filling](https://aclanthology.org/2023.acl-long.515.pdf), Mao Zhang, **Yongxin Zhu**, Zhen Liu, Zhimin Bao, Yunfei Wu, Xing Sun, Linli Xu
 - ``arXiv`` [Difformer: Empowering Diffusion Models on the Embedding Space for Text Generation](https://arxiv.org/abs/2212.09412), Zhujin Gao, Junliang Guo, Xu Tan, **Yongxin Zhu**, Fang Zhang, Jiang Bian, Linli Xu
