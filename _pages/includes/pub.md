@@ -1,7 +1,7 @@
 
 # Publications 
 
-- ``ACL 2024`` [Generative Pre-Trained Speech Language Model with Efficient Hierarchical Transformer](), **Yongxin Zhu**, Dan Su, Liqiang He, Linli Xu, Dong Yu
+- ``ACL 2024`` [Generative Pre-Trained Speech Language Model with Efficient Hierarchical Transformer](https://arxiv.org/abs/2406.00976v1), **Yongxin Zhu**, Dan Su, Liqiang He, Linli Xu, Dong Yu
 - ``ACL 2024`` [Talk With Human-like Agents: Empathetic Dialogue Through Perceptible Acoustic Reception and Reaction](), Haoqiu Yan, **Yongxin Zhu**, Kai Zheng, Bing Liu, Haoyu Cao, Deqiang Jiang, Linli Xu
 - ``NAACL 2024`` [Difformer: Empowering Diffusion Models on the Embedding Space for Text Generation](https://arxiv.org/abs/2212.09412), Zhujin Gao, Junliang Guo, Xu Tan, **Yongxin Zhu**, Fang Zhang, Jiang Bian, Linli Xu
 - ``COLING 2024`` [Few-shot Temporal Pruning Accelerates Diffusion Models for Text Generation](), Bocheng Li, Zhujin Gao, **Yongxin Zhu**, Kun Yin, Haoyu Cao, Deqiang Jiang, Linli Xu
