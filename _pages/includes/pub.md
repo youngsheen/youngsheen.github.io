@@ -2,7 +2,7 @@
 # Publications 
 - ``ArXiv`` [VideoLLaMA 2: Advancing Spatial-Temporal Modeling and Audio Understanding in Video-LLMs](https://arxiv.org/abs/2406.07476), Zesen Cheng, Sicong Leng, Hang Zhang, Yifei Xin, Xin Li, Guanzheng Chen, **Yongxin Zhu**, Wenqi Zhang, Ziyang Luo, Deli Zhao, Lidong Bing
 - ``ACL 2024`` [Generative Pre-Trained Speech Language Model with Efficient Hierarchical Transformer](https://arxiv.org/abs/2406.00976v1), **Yongxin Zhu**, Dan Su, Liqiang He, Linli Xu, Dong Yu
-- ``ACL 2024`` [Talk With Human-like Agents: Empathetic Dialogue Through Perceptible Acoustic Reception and Reaction](), Haoqiu Yan<sup>#</sup>, **Yongxin Zhu**<sup>#</sup>, Kai Zheng, Bing Liu, Haoyu Cao, Deqiang Jiang, Linli Xu
+- ``ACL 2024`` [Talk With Human-like Agents: Empathetic Dialogue Through Perceptible Acoustic Reception and Reaction](https://arxiv.org/abs/2406.12707), Haoqiu Yan<sup>#</sup>, **Yongxin Zhu**<sup>#</sup>, Kai Zheng, Bing Liu, Haoyu Cao, Deqiang Jiang, Linli Xu
 - ``NAACL 2024`` [Difformer: Empowering Diffusion Models on the Embedding Space for Text Generation](https://arxiv.org/abs/2212.09412), Zhujin Gao, Junliang Guo, Xu Tan, **Yongxin Zhu**, Fang Zhang, Jiang Bian, Linli Xu
 - ``COLING 2024`` [Few-shot Temporal Pruning Accelerates Diffusion Models for Text Generation](https://aclanthology.org/2024.lrec-main.637.pdf), Bocheng Li, Zhujin Gao, **Yongxin Zhu**, Kun Yin, Haoyu Cao, Deqiang Jiang, Linli Xu
 - ``AAAI 2024`` [Visual Hallucination Elevates Audio Speech Recognition](https://ojs.aaai.org/index.php/AAAI/article/download/29926/31618), Fang Zhang, **Yongxin Zhu**, Xiangxiang Wang, Huang Chen, Xing Sun, Linli Xu
