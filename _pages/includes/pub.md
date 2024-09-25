@@ -1,5 +1,6 @@
 
 # Publications 
+- ``NeurIPS 2024`` [Stabilize the Latent Space for Image Autoregressive Modeling: A Unified Perspective](), **Yongxin Zhu**, Bocheng Li, Hang Zhang, Xin Li, Linli Xu, Lidong Bing 
 - ``ArXiv`` [VideoLLaMA 2: Advancing Spatial-Temporal Modeling and Audio Understanding in Video-LLMs](https://arxiv.org/abs/2406.07476), Zesen Cheng, Sicong Leng, Hang Zhang, Yifei Xin, Xin Li, Guanzheng Chen, **Yongxin Zhu**, Wenqi Zhang, Ziyang Luo, Deli Zhao, Lidong Bing
 - ``ACL 2024`` [Generative Pre-Trained Speech Language Model with Efficient Hierarchical Transformer](https://aclanthology.org/2024.acl-long.97), **Yongxin Zhu**, Dan Su, Liqiang He, Linli Xu, Dong Yu
 - ``ACL 2024`` <span style="color:red">(Oral)</span> [Talk With Human-like Agents: Empathetic Dialogue Through Perceptible Acoustic Reception and Reaction](https://aclanthology.org/2024.acl-long.801), Haoqiu Yan<sup>#</sup>, **Yongxin Zhu**<sup>#</sup>, Kai Zheng, Bing Liu, Haoyu Cao, Deqiang Jiang, Linli Xu
