@@ -19,6 +19,8 @@
 
 - **Visual Hallucination Elevates Audio Speech Recognition.** <br>Fang Zhang, **<u>Yongxin Zhu</u>**, Xiangxiang Wang, Huang Chen, Xing Sun, Linli Xu. <br>In Proceedings of the 38th AAAI Conference on Artificial Intelligence (**AAAI-24**). [[Link]](https://ojs.aaai.org/index.php/AAAI/article/download/29926/31618)
 
+- **Summarizing Like Human: Edit-Based Text Summarization with Keywords.** <br> Yukang Liang, Junliang Guo, **<u>Yongxin Zhu</u>**, Linli Xu. <br>In 33rd International Conference on Artificial Neural Networks (**ICANN-24**). [[Link]](https://link.springer.com/chapter/10.1007/978-3-031-72350-6_23)
+
 
 ## 2023
 - **DiffS2UT: A Semantic Preserving Diffusion Model for Textless Direct Speech-to-Speech Translation.** <br>**<u>Yongxin Zhu</u>**, Zhujin Gao, Xinyuan Zhou, Zhongyi Ye, Linli Xu. <br> In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (**EMNLP-23**). [[Link]](https://aclanthology.org/2023.emnlp-main.709)
