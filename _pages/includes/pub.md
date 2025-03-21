@@ -6,7 +6,7 @@
 <br>**<u>Yongxin Zhu</u>**, Bocheng Li, Yifei Xin, Linli Xu. <br> ArXiv [[PDF]](http://arxiv.org/abs/2411.02038) (<span style="color:blue">Recommended by </span>[Jianlin Su](https://kexue.fm/archives/10519)) (<span style="color:blue">Integrated to lucidrains's </span>[vector-quantize-pytorch repo](https://github.com/lucidrains/vector-quantize-pytorch))
 
 - **Stabilize the Latent Space for Image Autoregressive Modeling: A Unified Perspective.** [[code]](https://github.com/DAMO-NLP-SG/DiGIT)[![](https://img.shields.io/github/stars/DAMO-NLP-SG/DiGIT?style=social&label=Stars)](https://github.com/DAMO-NLP-SG/DiGIT)
- <br>**<u>Yongxin Zhu</u>**, Bocheng Li, Hang Zhang, Xin Li, Linli Xu, Lidong Bing. <br> In Proceedings of the Thirty-eighth Annual Conference on Neural Information Processing Systems (**NeurIPS-24**). [[PDF]](http://arxiv.org/abs/2410.12490) 
+ <br>**<u>Yongxin Zhu</u>**, Bocheng Li, Hang Zhang, Xin Li, Linli Xu, Lidong Bing. <br> In Proceedings of the Thirty-eighth Annual Conference on Neural Information Processing Systems (**NeurIPS-24**). [[PDF]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/325ce3291a509ddacc1e08f457b4d86c-Abstract-Conference.html) 
 
 - **Generative Pre-trained Speech Language Model with Efficient Hierarchical Transformer.**  [[code]](https://github.com/youngsheen/GPST) [![](https://img.shields.io/github/stars/youngsheen/GPST?style=social&label=Stars)](https://github.com/youngsheen/GPST) 
  <br>**<u>Yongxin Zhu</u>**, Dan Su, Liqiang He, Linli Xu, Dong Yu<br> In Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (**ACL-24**). [[PDF]](https://aclanthology.org/2024.acl-long.97) (<span style="color:blue">Adopted by </span>[Moshi](https://arxiv.org/abs/2410.00037))
