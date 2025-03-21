@@ -3,5 +3,5 @@ I am currently a Ph.D. student at the University of Science and Technology of Ch
 - LLM based Spoken Dialogue System
 - Multimodal learning
 
-I will be actively seeking jobs beginning Spring 2025. Feel free to reach out at zyx2016@mail.ustc.edu.cn
+I am actively seeking jobs. Feel free to reach out at zyx2016@mail.ustc.edu.cn
 
