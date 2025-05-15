@@ -1,6 +1,9 @@
 
 # Publications 
 
+## 2025
+- **Dynamic Prefix as Instructor for Incremental Named Entity Recognition: A Unified Seq2Seq Generation Framework.** <br> Zihao Wu, YongXiang Hua, **<u>Yongxin Zhu</u>**, Fang Zhang, Linli Xu. <br> In Findings of the Association for Computational Linguistics: ACL 2025 (**ACL-25**).
+
 ## 2024
 - **Addressing Representation Collapse in Vector Quantized Models with One Linear Layer.** [[code]](https://github.com/youngsheen/SimVQ) [![](https://img.shields.io/github/stars/youngsheen/SimVQ?style=social&label=Stars)](https://github.com/youngsheen/SimVQ) 
 <br>**<u>Yongxin Zhu</u>**, Bocheng Li, Yifei Xin, Linli Xu. <br> ArXiv [[PDF]](http://arxiv.org/abs/2411.02038) (<span style="color:blue">Recommended by </span>[Jianlin Su](https://kexue.fm/archives/10519)) (<span style="color:blue">Integrated to lucidrains's </span>[vector-quantize-pytorch repo](https://github.com/lucidrains/vector-quantize-pytorch))
