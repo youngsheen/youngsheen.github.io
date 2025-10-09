@@ -7,7 +7,7 @@
   Cong, Xiaobin Zhuang, Yuping Wang, Yuxuan Wang. <br> [[PDF]](http://arxiv.org/abs/2510.06673)
 
 - **Addressing Representation Collapse in Vector Quantized Models with One Linear Layer.** [[code]](https://github.com/youngsheen/SimVQ) [![](https://img.shields.io/github/stars/youngsheen/SimVQ?style=social&label=Stars)](https://github.com/youngsheen/SimVQ) 
-<br>**<u>Yongxin Zhu</u>**, Bocheng Li, Yifei Xin, Linli Xu. <br> In International Conference on Computer Vision (**ICCV 2025**). [[PDF]](http://arxiv.org/abs/2411.02038) (<span style="color:blue">Recommended by </span>[Jianlin Su](https://kexue.fm/archives/10519)) (<span style="color:blue">Integrated to lucidrains's </span>[vector-quantize-pytorch repo](https://github.com/lucidrains/vector-quantize-pytorch))
+<br>**<u>Yongxin Zhu</u>**, Bocheng Li, Yifei Xin, Zhihua Xia, Linli Xu. <br> In International Conference on Computer Vision (**ICCV 2025**). [[PDF]](http://arxiv.org/abs/2411.02038) (<span style="color:blue">Recommended by </span>[Jianlin Su](https://kexue.fm/archives/10519)) (<span style="color:blue">Integrated to lucidrains's </span>[vector-quantize-pytorch repo](https://github.com/lucidrains/vector-quantize-pytorch))
 
 - **Scalable Data Synthesis through Human-like Cognitive Imitation and Data Recombination.** <br> Zhongyi Ye, Weitai Zhang, Xinyuan Zhou, **<u>Yongxin Zhu</u>**, Ninghui Rao, Enhong Chen. <br> In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (**EMNLP-25**).
 
